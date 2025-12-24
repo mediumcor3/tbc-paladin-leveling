@@ -76,7 +76,7 @@ You do not need both buffs to start leveling, even just one is plenty of firepow
 
 Running a mage to Silvermoon for the portal is recommended as long as you don't have to stop leveling to do this.  
 
-Some ideas for summoner team locations include Org, each hyerspawn on your itinerary, SM portal, ZF portal, your level 60 dungeon of choice.
+Some ideas for summoner team locations include Org, each hyerspawn on your itinerary, SM portal, tanaris, ZF portal, your level 60 dungeon of choice.
 
 ---
 
@@ -125,16 +125,10 @@ If you're not being supported by guildmates or don't have gold to buy ZG boosts,
 
 ---
 
-## Closing Notes
+## Call to Arms
 
-This guide intentionally prioritizes:
+If you're reading this you're likely either leveling a paladin or curious what we'll be up to.  At this time, we need more level 32 shaman helpers as well as level 60 tag killers of any class. 
 
-* Predictability over novelty
-* Repeatable systems over one-off tricks
-* Helper leverage over individual heroics
+The leveling journey without boosting is going to be long and monotonous so we will need to chip away at it rather than try to swallow it whole.  
 
-Updates should track:
-
-* Server-specific tuning
-* Spawn behavior changes
-* Anniversary-specific mechanics
+Helpers are not signing up for permanent servitude to their paladin leveler friend, rather helping in increments where possible.  Many hands makes light work, the more helpers we have, the less we will need from each.
