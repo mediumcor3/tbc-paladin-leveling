@@ -1,69 +1,59 @@
 # Paladin TBC Anniversary Classic – Preparation Guide
 
-> A practical, systems-oriented guide for preparing Paladins for TBC Anniversary Classic, focused on leveling acceleration, group leverage, and execution efficiency.
+> A practical guide for preparing Paladins for TBC Anniversary Classic, focused on maximum xp rates post boosting nerfs.
 
 ---
 
-## 1. Helper Count Dictates Overall Strategy
+## 1. Helpers Dictates Overall Strategy
 
-**Core premise:** the number of available helpers fundamentally changes the optimal leveling and prep strategy.
+**Core premise:** the number of available helpers changes which approach should be taken. 
 
-This section should establish:
+With dungeon boosting xp killed by Blizzard, mob tagging is the new form of boosting.  
+The low level character must tag (deal damage first) and deal 40% of the enemy's hp to gain full xp.  
+The fastest possible approach to leveling will be doing zone-wide aoe pulls like [this](https://www.youtube.com/watch?v=yMHqKeDvrBk).
+Unfortunately, this approach requires a minimum of 2 60's helping, typically 4 or more as levels increase.  It is unlikely that any guild reaches the player time investment required to offer this service to their    guildies - most likely the only people who take this approach will be streamers and/or people paying. 
 
-* Why Paladins scale disproportionately with external help
-* Strategy differences between:
+A much more realistic helper count would be 0, your own dualbox, or 1 friend.  A level 60 warrior/druid can set up an untagged aoe pull for you (via demo shout/roar) at low levels only, but as enemy mobs near level 20, your pull size for solo tank will start to become limited.  
 
-  * Solo / near-solo
-  * 1–2 helpers
-  * 3–5 helpers
-  * Raid-sized assistance
-* Time-to-60 expectations for each scenario
-* Tradeoffs between gold, time, and coordination
-
-Key concepts to introduce early:
-
-* XP density vs XP safety
-* Reset cadence
-* Death as a tool (not a failure)
+If your helper class is anything except warrior/druid, or if competition in the zone or enemy mob levels have made aoe impractical, your approach should be single target ret.  
+Single target levelers will focus on hyperspawns and potentially some kill quests.  
 
 ---
 
 ## 2. Types of Helpers
 
-Not all helpers are equal. Categorize helpers by *function*, not class fantasy.
+Not all helpers are equal.  Quantity and class both matter.
 
-Suggested breakdown:
+Class roles:
 
-* **Damage dealers** (ranged vs melee)
-* **Pullers / taggers**
-* **Healers** (active vs passive)
-* **Controllers** (slows, fears, stuns)
-* **Summoners / warlock alts**
+* **War/druid** pull mobs, druid can give thorns to paladin and self heal large pulls
+* **Mage** improved fireblast spec, portals
+* **Rogue/lock/hunter/priest/shaman** dps choices for killing tagged mobs, some better/worse, no extra tools
+* **Healers** only useful for zone-wide aoe pulls, likely irrelevant
+* **Summoners** as useful as the function of their location, some are very high yield (Org bank, hillsbrad fields), some are minor gain compared to alternatives (barrens harpies, SM portal).  
 
-Cover:
+For a solo helper until level 20:
+druid > war > mage > other 
 
-* What each helper type enables
-* Diminishing returns on stacking the same helper role
-* Which helper types unlock specific techniques later in the guide
+From 20-32:
+mage > druid > war > other
 
 ---
 
 ## 3. Items and Professions
 
-This section defines the *minimum viable prep* before execution begins.
+Aoe levelers will need to get [Explosive Rockets](https://classicdb.ch/?item=1178) from alliance either via AH or hand leveling.  They will level engi for dynamites and sappers using any of the existing guides out there, generally leveling as the pulls are set up where possible.  
 
-Topics:
+Single target levelers can review these gear snapshots for ideas on pre-gearing your character.  I'm taking this approach personally and am twinked in every item slot.  
 
-* Gear thresholds that matter (and those that don’t)
-* Consumables that meaningfully affect pull size or reset speed
-* Engineering breakpoints (bombs, dummies, reflectors)
-* Professions that scale with helper count
-* Gold investment vs time saved
+[Level 1](https://sixtyupgrades.com/tbc/set/hu5PKB8sUk9zQdzDGVMCJK)
+[Level 20](https://sixtyupgrades.com/tbc/set/bVxtYXqHUW7CifofrJ7v4r)
+[Level 32](https://sixtyupgrades.com/tbc/set/okBa9at4cZJdbT7TJMeTho)
+[Level 40](https://sixtyupgrades.com/tbc/set/kPpCErA1oHmLKQ2hNtmi23)
+[Level 47](https://sixtyupgrades.com/tbc/set/pyqZ4JF9vbZjsQhML28JgZ)
 
-Focus on:
-
-* Deterministic value
-* Items that enable techniques described in later sections
+Ret players can also consider low level battle elixirs for str/agi.  
+To access the engineering helm at level 10, you must stop leveling and push engi to 120.  This may not be worth the xph loss but the helm lasts until level 25 and [Humbert's Helm](https://classicdb.ch/?item=4724) is notoriously expensive.   
 
 ---
 
