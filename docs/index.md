@@ -19,6 +19,7 @@ Unfortunately, this approach requires a minimum of 2 60's helping, typically 4 o
 A much more realistic helper count would be 0, your own dualbox, or 1 friend.  A level 60 warrior/druid can set up an untagged aoe pull for you (via demo shout/roar) at low levels only, but as enemy mobs near level 20, your pull size for solo tank will start to become limited.  
 
 If your helper class is anything except warrior/druid, or if competition in the zone or enemy mob levels have made aoe impractical, your approach should be single target ret.  
+
 Single target levelers will focus on hyperspawns and potentially some kill quests.  
 
 ---
@@ -32,7 +33,7 @@ Class roles:
 * **War/Druid** pull mobs, druid can give thorns to paladin and self heal large pulls
 * **Mage** improved fireblast spec, portals
 * **Rogue/Lock/Hunter/Priest/Shaman** dps choices for killing tagged mobs, some better/worse, no extra tools
-* **Healers** only useful for zone-wide aoe pulls, likely irrelevant
+* **Healers** useful for zone-wide aoe pulls at 60, and/or 1x level 32 shaman to heal dungeons
 * **Summoners** as useful as the function of their location, some are very high yield (Org bank, hillsbrad fields), some are minor gain compared to alternatives (barrens harpies, SM portal).  
 
 For a solo helper until level 20:
@@ -69,93 +70,58 @@ To access the engineering helm at level 10, you must stop leveling and push engi
 
 ## 4. World Buffs and Summons
 
-This section explains when buffs are *worth maintaining* and when they are disposable.
+Haste is disproportionately stronger at lower levels in TBC, so WCB is insane.  Ony is just overtuned for low levels, so it's also insane.  Ideally, our runs will all start by summoning to Org and getting Rend/Ony drops.  
 
-Cover:
+You do not need both buffs to start leveling, even just one is plenty of firepower for low levels.  
 
-* Which world buffs meaningfully change outcomes
-* Buff persistence vs death-based strategies
-* Summoning logistics (lock chains, alts, parking)
-* When buffs increase risk rather than reduce it
+Running a mage to Silvermoon for the portal is recommended as long as you don't have to stop leveling to do this.  
 
-Explicitly tie buffs to:
-
-* Pull size ceilings
-* Survivability margins
-* Reset consistency
+Some ideas for summoner team locations include Org, each hyerspawn on your itinerary, SM portal, ZF portal, your level 60 dungeon of choice.
 
 ---
 
 ## 5. Hyperspawns
 
-Hyperspawns are an XP multiplier when correctly controlled.
+Hyperspawns are the tool of choice for ret levelers.  Due to our gear and wbuffs, it is reasonable to start any location 3 levels lower than the enemies.  Here's a list of the hyerspawns I plan to use, but it is not comprehensive:
 
-Explain:
+8-12 Durotar, Quillboar in far west camp near bridge to Barrens
+12-18 Silverpine, Gnolls in northwest farm
+14-20 Barrens, Harpies in Northeast, not a hyperspawn in some areas but so many mobs that it doesn't matter
+17-26 Wetlands, Gnolls in Southeast, famous spot on alliance but draenei levelers are unlikely to be caught up with first wave of blood elf levelers
+18-30 Hillsbrad, Humans all over the farms in the east, well known spot
+28-32 1k Needles, Harpy Cave in Northeast, remote and unlikely to be contested
+27-34 Ashenvale, Worgen in enclave near Felwood border
+34-45 Dustwallow Marsh, Murlocs at the famous islands
 
-* What creates hyperspawns (mechanically)
-* Why Paladins exploit them better than most classes
-* Required helper configurations
-* Common failure modes (over-tagging, leash breaks)
+Strategy here is the same for all locations: smash the mob for 40% of its hp, kill it instantly with a 60 char, repeat. 
 
-This section should emphasize:
-
-* Spawn pressure control
-* Kill cadence discipline
-
----
-
-## 6. Zone Pulls
-
-Zone pulls convert *geography* into an advantage.
-
-Cover:
-
-* Criteria for a good zone-pull location
-* Mob density vs pathing complexity
-* Reset vectors and safe wipe points
-* How helper roles change during zone pulls
-
-Include:
-
-* Risk management frameworks
-* How to abort without losing time
+Aoe levelers shouldn't have much interest in these locations unless they're between pulls for some reason.  
 
 ---
 
-## 7. Dungeon Cleave
+## 6. Dungeon Cleave
 
-Dungeon cleave is the most controlled and repeatable strategy.
+It's unlikely that playing normally in a cleave will yield more xp than open world grinding with helpers, but it will be less mentally taxing by far. 
 
-Topics:
+Since ret dps is generally awful for low level dungeons your options are to play Prot, Holy, or skip low levels.  
 
-* When dungeon cleave dominates open-world methods
-* Paladin-specific advantages in dungeon environments
-* Optimal group compositions by helper count
-* Lockout math and reset optimization
+In the interest of low stress, helping guildie paladins, and actually maintaining good xph, my recommendation is to start dungeons in SM and stay until level 48. 
 
-Tie this section back to:
+The comp I want to run is 4x Ret, 1x Rsham.  Shaman gets WF totem at 32, so we'll start with Lib+GY spam at that time.  The shaman doesn't need to be twinked, just drop WF and heal.  
 
-* Items
-* Professions
-* Buff decisions
+SM 32 to 41, ZF 41 to 48 will work, but mixing in other quests or dungeons to break up monotony would be fine and minimal loss. 
 
 ---
 
 ## 8. 48–60 Transition
 
-The final stretch is where most strategies collapse if not adapted.
+At 48, the key change is that you're now allowed to enter Scholo, Strat, and Dire Maul.  All of these dungeons still provide xp when killed by level 60's under the new rules, so you can enter and play with any geared 60 character.  Unfortunately, the mage boosts in these dungeons are not healthy during TBC prepatch.  
 
-Discuss:
+At 50, you can enter ZG.  On top of XP still being available, mage boost still works.
 
-* Why earlier methods stop scaling
-* Mob HP vs XP efficiency inflection points
-* When to abandon hyperspawns or zone pulls
-* Dungeon vs outdoor tradeoffs post-48
+Since you need Argent Dawn rep to enter Naxx, use Strat/Scholo to level 48-50 at least, then transition to ZG once you reach Honored with AD.  
 
-End with:
-
-* A clear decision tree for 48–60
-* Common mistakes that waste the final hours
+If you're not being supported by guildmates or don't have gold to buy ZG boosts, just finish the dungeon grind normally instead.  
 
 ---
 
