@@ -10,7 +10,7 @@
 
 With dungeon boosting xp killed by Blizzard, mob tagging is the new form of boosting.  
 
-The low level character must tag (deal damage first) and deal 40% of the enemy's hp to gain full xp.  
+The low level character must tag and deal 40% of the enemy's hp to gain full xp.  
 
 The fastest possible approach to leveling will be doing zone-wide aoe pulls like [this](https://www.youtube.com/watch?v=yMHqKeDvrBk).
 
@@ -64,7 +64,7 @@ Single target levelers can review these gear snapshots for ideas on pre-gearing 
 
 Ret players can also consider low level battle elixirs for str/agi.  
 
-To access the engineering helm at level 10, you must stop leveling and push engi to 120.  This may not be worth the xph loss but the helm lasts until level 25 and [Humbert's Helm](https://classicdb.ch/?item=4724) is notoriously expensive.   
+To access the engineering helm at level 10, you must stop leveling and push engi to 120.  This may not be worth the xph loss but the helm lasts until level 25 or higher and [Humbert's Helm](https://classicdb.ch/?item=4724) is notoriously expensive.   
 
 ---
 
@@ -85,13 +85,21 @@ Some ideas for summoner team locations include Org, each hyerspawn on your itine
 Hyperspawns are the tool of choice for ret levelers.  Due to our gear and wbuffs, it is reasonable to start any location 3 levels lower than the enemies.  Here's a list of the hyerspawns I plan to use, but it is not comprehensive:
 
 8-12 Durotar, Quillboar in far west camp near bridge to Barrens
+
 12-18 Silverpine, Gnolls in northwest farm
+
 14-20 Barrens, Harpies in Northeast, not a hyperspawn in some areas but so many mobs that it doesn't matter
+
 17-26 Wetlands, Gnolls in Southeast, famous spot on alliance but draenei levelers are unlikely to be caught up with first wave of blood elf levelers
+
 18-30 Hillsbrad, Humans all over the farms in the east, well known spot
+
 28-32 1k Needles, Harpy Cave in Northeast, remote and unlikely to be contested
+
 27-34 Ashenvale, Worgen in enclave near Felwood border
+
 34-45 Dustwallow Marsh, Murlocs at the famous islands
+
 
 Strategy here is the same for all locations: smash the mob for 40% of its hp, kill it instantly with a 60 char, repeat. 
 
