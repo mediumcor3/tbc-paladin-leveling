@@ -1,0 +1,15 @@
+site_name: Paladin TBC Anniversary Leveling
+site_description: 1-60 horde paladin prepatch tbc anni
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+nav:
+  - Guide: index.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
