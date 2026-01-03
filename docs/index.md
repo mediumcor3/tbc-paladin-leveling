@@ -14,7 +14,7 @@ The low level character must tag and deal 40% of the enemy's hp to gain full xp.
 
 The fastest possible approach to leveling will be doing zone-wide aoe pulls like [this](https://www.youtube.com/watch?v=yMHqKeDvrBk).
 
-Unfortunately, this approach requires a minimum of 2 60's helping, typically 4 or more as levels increase.  It is unlikely that any guild reaches the player time investment required to offer this service to their    guildies - most likely the only people who take this approach will be streamers and/or people paying. 
+Unfortunately, this approach requires a minimum of 2 60's helping, typically 4 or more as levels increase.  It is unlikely that any guild reaches the player time investment required to offer this service to their guildies - most likely the only people who take this approach will be streamers and/or people paying. 
 
 A much more realistic helper count would be 0, your own dualbox, or 1 friend.  A level 60 warrior/druid can set up an untagged aoe pull for you (via demo shout/roar) at low levels only, but as enemy mobs near level 20, your pull size for solo tank will start to become limited.  
 
@@ -44,11 +44,25 @@ From 20-32:
 
 mage > druid > war > other
 
+If you have multiple helpers, pair any tank with any healer and they'll all function the same.  Use the approach indicated by the HC Westfall video.  
+
 ---
 
 ## 3. Items and Professions
 
-Aoe levelers will need to get [Explosive Rockets](https://classicdb.ch/?item=1178) from alliance either via AH or hand leveling.  They will level engi for dynamites and sappers using any of the existing guides out there, generally leveling as the pulls are set up where possible.  
+Important note! In TBC, ground mount was moved to level 30, plus you're a paladin.  Make sure you're riding fast at level 30 by learning riding then talking to your trainer.  
+
+Aoe levelers will need to get [Explosive Rockets](https://classicdb.ch/?item=1178) from alliance either via AH or hand leveling.  They will level engi for dynamites and sappers using any of the guides out there, generally leveling engi while the aoe pulls are being set up.  Benchmarks of importance for engi are:
+
+Coarse Dynamite at 75, level 5 req
+
+Heavy Dynamite at 125, level 10 req
+
+Solid Dynamite at 175, level 20 req
+
+Sapper at 205, level 20 req
+
+Dense Dynamite at 250, level 35 req
 
 Single target levelers can review these gear snapshots for ideas on pre-gearing your character.  I'm taking this approach personally and am twinked in every item slot.  
 
@@ -78,6 +92,8 @@ Running a mage to Silvermoon for the portal is recommended as long as you don't 
 
 Some ideas for summoner team locations include Org, each hyerspawn on your itinerary, SM portal, tanaris, ZF portal, your level 60 dungeon of choice.
 
+If the open world fails us due to competition or griefing, SFK portal will offer great value but otherwise would be completely useless.  
+
 ---
 
 ## 5. Hyperspawns
@@ -94,11 +110,13 @@ Hyperspawns are the tool of choice for ret levelers.  Due to our gear and wbuffs
 
 18-30 Hillsbrad, Humans all over the farms in the east, well known spot
 
-28-32 1k Needles, Harpy Cave in Northeast, remote and unlikely to be contested
+28-32 1k Needles, Harpy Cave in Northeast or Southwest, remote and unlikely to be contested
 
 27-34 Ashenvale, Worgen in enclave near Felwood border
 
 34-45 Dustwallow Marsh, Murlocs at the famous islands
+
+50ish-60 EPL, Tyr's Hand - requires many friends and lots of help, only for a rush job
 
 
 Strategy here is the same for all locations: smash the mob for 40% of its hp, kill it instantly with a 60 char, repeat. 
@@ -123,15 +141,37 @@ SM 32 to 41, ZF 41 to 48 will work, but mixing in other quests or dungeons to br
 
 ## 8. 48–60 Transition
 
-At 48, the key change is that you're now allowed to enter Scholo, Strat, and Dire Maul.  All of these dungeons still provide xp when killed by level 60's under the new rules, so you can enter and play with any geared 60 character.  Unfortunately, the mage boosts in these dungeons are not healthy during TBC prepatch.  
+At 48, the key change is that you're now allowed to enter Scholo, Strat, and Dire Maul.  All of these dungeons still provide xp when killed by level 60's under the new rules, so you can enter and play with any geared 60 character.  Unfortunately, the mage boosts in these dungeons are not healthy during TBC prepatch.  Some mages will be able to complete Strat, just not the undergeared ones from before.  
 
-At 50, you can enter ZG.  On top of XP still being available, mage boost still works.
+At 50, you can enter ZG.  On top of XP still being available, mage boost still works mostly normally.
 
 Since you need Argent Dawn rep to enter Naxx, use Strat/Scholo to level 48-50 at least, then transition to ZG once you reach Honored with AD.  
 
 If you're not being supported by guildmates or don't have gold to buy ZG boosts, just finish the dungeon grind normally instead.  
 
 ---
+
+## 9. Notable Quests
+
+For the most part, if you've got helpers and plan to dungeon cleave, quests should act as filler while you're waiting for your party (members) for some reason.  There are many quests that you'd be able to complete on the fly that can't be predicted in advance, so I wont.  These are worth considering:
+
+[Pally res at 12](https://www.wowhead.com/tbc/quest=9685/redeeming-the-dead)
+
+[Ashenvale pages at 23](https://www.wowhead.com/tbc/quest=6504/the-lost-pages)
+
+[1k needles mirage flats quest lap at 29](https://www.wowhead.com/tbc/quest=1176/load-lightening)
+
+[STV pages at 30](https://www.wowhead.com/tbc/quest=338/the-green-hills-of-stranglethorn)
+
+[Skull of impending doom at 30](https://www.wowhead.com/tbc/quest=737/forbidden-knowledge)
+
+[Nifty stopwatch at 35](https://www.wowhead.com/tbc/quest=778/this-is-going-to-be-hard)
+
+[Carrot on a stick at 42+](https://www.wowhead.com/tbc/quest=2770/gahzrilla)
+
+
+At some point in the 50+ range, start to be mindful of your prequest plan for the character before you complete quests.  There are many quests that would actually be optimal to work on while leveling like preparing [Guarding Secrets](https://www.wowhead.com/tbc/quest=4882/guarding-secrets) and [Winterfall Runners](https://www.wowhead.com/tbc/quest=5087/winterfall-runners), but it's definitely worth considering your 60-70 approach.   The [level 60 paladin mount](https://www.wowhead.com/tbc/quest=9737/true-masters-of-the-light) quest is often prequested, for example. 
+
 
 ## Call to Arms
 
