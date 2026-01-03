@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Helpers Dictates Overall Strategy
+## 1. Helpers Dictate Overall Strategy
 
 **Core premise:** The number of available helpers changes which approach should be taken. 
 
@@ -76,6 +76,8 @@ Single target levelers can review these gear snapshots for ideas on pre-gearing 
 
 [Level 47](https://sixtyupgrades.com/tbc/set/pyqZ4JF9vbZjsQhML28JgZ)
 
+If you want an economical option in any slot shown, consider a green Tiger>Str>Power item rather than a named blue.  Many deals can be found by shopping the AH patiently.
+
 Ret players can also consider low level battle elixirs for str/agi.  
 
 To access the engineering helm at level 10, you must stop leveling and push engi to 120.  This may not be worth the xph loss but the helm lasts until level 25 or higher and [Humbert's Helm](https://classicdb.ch/?item=4724) is notoriously expensive.   
@@ -90,9 +92,11 @@ You do not need both buffs to start leveling, even just one is plenty of firepow
 
 Running a mage to Silvermoon for the portal is recommended as long as you don't have to stop leveling to do this.  
 
-Some ideas for summoner team locations include Org, each hyerspawn on your itinerary, SM portal, tanaris, ZF portal, your level 60 dungeon of choice.
+Some ideas for summoner team locations include Org, each hyerspawn on your itinerary, Booty Bay, SM portal, tanaris, ZF portal, your level 60 dungeon of choice.
 
-If the open world fails us due to competition or griefing, SFK portal will offer great value but otherwise would be completely useless.  
+If the open world fails us due to competition or griefing, SFK portal will offer great value but otherwise would be completely useless. 
+
+If you don't have access to summons, use a mage with portals instead!  This covers a lot of bases once we have access to [Stonard Portal](https://www.wowhead.com/tbc/spell=49361/portal-stonard) and [Silvermoon Portal](https://www.wowhead.com/tbc/spell=32267/portal-silvermoon), both of which require simply walking a mage to the portal trainer on site.  
 
 ---
 
