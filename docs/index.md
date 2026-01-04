@@ -1,6 +1,7 @@
 # Paladin TBC Anniversary Classic – Preparation Guide
 
-> A practical guide for preparing Paladins for TBC Anniversary Classic, focused on maximum xp rates post boosting nerfs.
+> An impractical, sweaty guide for leveling Blood Elf Paladins in TBC Anniversary Classic.   
+> Focused on maximum xp rates post boosting nerfs with some assistance.
 
 ---
 
@@ -175,6 +176,34 @@ For the most part, if you've got helpers and plan to dungeon cleave, quests shou
 
 
 At some point in the 50+ range, start to be mindful of your prequest plan for the character before you complete quests.  There are many quests that would actually be optimal to work on while leveling like preparing [Guarding Secrets](https://www.wowhead.com/tbc/quest=4882/guarding-secrets) and [Winterfall Runners](https://www.wowhead.com/tbc/quest=5087/winterfall-runners), but it's definitely worth considering your 60-70 approach.   The [level 60 paladin mount](https://www.wowhead.com/tbc/quest=9737/true-masters-of-the-light) quest is often prequested, for example. 
+
+---
+
+## 10. Post-60
+
+Lots to do, just because you dinged doesn't mean you're done.  Some prep required:
+
+
+* **Naxx** - AD honored + 5 arcane crystal, 2 nexus crystal, 1 righteous orb, 60g, frost res for saph
+
+* **AQ40** - Hammer of Northern Wind + mace skill, massive amounts of trash farmed rep if you're up for 5pc t2.5 (ask)
+
+* **ZG** - 336 bijous for an exalted rush, not worth to bother with the scrap bijous or rep you collect from the ZG's you actually run.  540 coin sets if you're in a rush
+
+* **AQ20** - have to hit these every lockout in order to get cen circle rep and items for prequesting
+
+* **BWL** - Onyxia scale cloak, niche items from this that might have some value
+
+* **MC** - purely cosmetic or prequesting related, maybe don't do care much about this 
+
+* **Libram slot** - I prefer seal base mana cost reduction from [dire maul west](https://www.wowhead.com/tbc/item=22401/libram-of-hope) but you could also buy [fervor](https://www.wowhead.com/tbc/item=23203/libram-of-fervor)
+
+* **2nd profession** - most likely you're ench/bs/jc depending on what spec you're going to play aside from the engi you already leveled
+
+* **[Whippers](https://classicdb.ch/?item=11951)** for leveling and raids
+
+There's probably more I'm forgetting, so complete the above and then figure out what I missed and do that.
+
 
 
 ## Call to Arms
