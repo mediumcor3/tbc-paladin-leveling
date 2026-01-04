@@ -146,13 +146,11 @@ SM 32 to 41, ZF 41 to 48 will work, but mixing in other quests or dungeons to br
 
 ## 8. 48–60 Transition
 
-At 48, the key change is that you're now allowed to enter Scholo, Strat, and Dire Maul.  All of these dungeons still provide xp when killed by level 60's under the new rules, so you can enter and play with any geared 60 character.  Unfortunately, the mage boosts in these dungeons are not healthy during TBC prepatch.  Some mages will be able to complete Strat, just not the undergeared ones from before.  
+At 48, the key change is that you're now allowed to enter Scholo, Strat, and Dire Maul.  All of these dungeons still provide xp when killed by level 60's under the new rules, so you can enter and play with any geared 60 character.  Unfortunately, the mage boosts in these dungeons are not so healthy during TBC prepatch.  Some mages will be able to complete Strat, just not the undergeared ones from before.  
 
-At 50, you can enter ZG.  On top of XP still being available, mage boost still works mostly normally.
+Since you need Argent Dawn rep to enter Naxx, Strat/Scholo is high priority.  Whether your group is a duo mage boost or a war/sham cleave or something else entirely, find a way to get in there.  You need honored, but revered is very reasonably attainable by 60.  Strat is probably more xp/h, but Dark Runes in Scholo sell for a lot and will be useful in TBC.
 
-Since you need Argent Dawn rep to enter Naxx, use Strat/Scholo to level 48-50 at least, then transition to ZG once you reach Honored with AD.  
-
-If you're not being supported by guildmates or don't have gold to buy ZG boosts, just finish the dungeon grind normally instead.  
+If you're not being supported by guildmates or don't have gold to buy boosts, you can either finish the dungeon grind normally or quest in the open world areas like Ungoro, WPL, Felwood, etc.     
 
 ---
 
