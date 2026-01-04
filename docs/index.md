@@ -134,9 +134,9 @@ Aoe levelers shouldn't have much interest in these locations unless they're betw
 
 It's unlikely that playing normally in a cleave will yield more xp than open world grinding with helpers, but it will be less mentally taxing by far. 
 
-Since ret dps is generally awful for low level dungeons your options are to play Prot, Holy, or skip low levels.  
+Ret dps isn't very good at low levels, but it's possible with twink gear and wbuffs that you're still better off doing lockouts of RFC/SFK.  This is not currently clear, but might be difficult to coordinate.    
 
-In the interest of low stress, helping guildie paladins, and actually maintaining good xph, my recommendation is to start dungeons in SM and stay until level 48. 
+In the interest of low stress, helping guildie paladins, and actually maintaining good xph, my recommendation is to start dungeons in SM at 32 and stay until level 48. 
 
 The comp I want to run is 4x Ret, 1x Rsham.  Shaman gets WF totem at 32, so we'll start with Lib+GY spam at that time.  The shaman doesn't need to be twinked, just drop WF and heal.  
 
@@ -199,6 +199,8 @@ Lots to do, just because you dinged doesn't mean you're done.  Some prep require
 * **2nd profession** - most likely you're ench/bs/jc depending on what spec you're going to play aside from the engi you already leveled
 
 * **[Whippers](https://classicdb.ch/?item=11951)** for leveling and raids
+
+* **Prequests** - finish what you potentially started during leveling, get prepared for a prequested level 61 at minimum, if not 62.  
 
 There's probably more I'm forgetting, so complete the above and then figure out what I missed and do that.
 
